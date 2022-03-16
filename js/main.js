@@ -225,8 +225,8 @@
 			easing: "swing",
 			direction: "horizontal",
 
-			slideshowSpeed: 5000,
-			directionNav: true,
+			slideshowSpeed: 3000,
+			directionNav: false,
 			start: function(){
 				setTimeout(function(){
 					$('.slider-text').removeClass('animated fadeInUp');
