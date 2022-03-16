@@ -226,7 +226,7 @@
 			direction: "horizontal",
 
 			slideshowSpeed: 3000,
-			directionNav: false,
+			directionNav: true,
 			start: function(){
 				setTimeout(function(){
 					$('.slider-text').removeClass('animated fadeInUp');
